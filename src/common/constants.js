@@ -1,0 +1,2 @@
+export const LS_ESHOP_ACCESS_TOKEN = "ESHOP_ACCESS_TOKEN"
+export const LS_ESHOP_EMAIL = "ESHOP_EMAIL"

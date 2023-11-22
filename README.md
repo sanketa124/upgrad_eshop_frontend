@@ -4,7 +4,9 @@ A E-Commerce App created in React to demonstrate capabilities of React, Redux, J
 
 ## Serving the Source Code
 
-npm start
+npm install
+
+npm run start
 
 ## Serving the Source Code
 

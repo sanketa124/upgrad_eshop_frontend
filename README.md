@@ -1,6 +1,6 @@
 # E-Commerce App v1.0
 
-A E-Commerce App created in React to demonstrate caoapibilites of React, Redux, JS, HTML, CSS, etc.
+A E-Commerce App created in React to demonstrate capabilities of React, Redux, JS, HTML, CSS, etc.
 
 ## Serving the Source Code
 
